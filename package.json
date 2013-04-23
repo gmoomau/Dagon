@@ -4,7 +4,7 @@
   "description": "a Thing That Should Not Be",
   "main": "tracker.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"no tests here\" && exit 1"
   },
   "repository": "",
   "author": "",
